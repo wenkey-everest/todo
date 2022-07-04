@@ -36,6 +36,10 @@ dependencies:
   cupertino_icons: ^1.0.2
   amplify_datastore: ^0.6.1
   amplify_flutter: ^0.6.1
+  amplify_api: ^0.6.1
+  amplify_auth_cognito: ^0.6.1
+  dio: ^4.0.6
+  
 
 dev_dependencies:
   flutter_test:
